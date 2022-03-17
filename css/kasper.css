@@ -1,10 +1,10 @@
-/* start varibles */
+/* start variables */
 :root {
   --main-color: #19c8fa;
   --transparent-color: rgb(15 116 143 / 70%);
   --section-padding: 100px 0;
 }
-/* start varibles */
+/* end variables */
 /* Start Global Rules */
 * {
   -webkit-box-sizing: border-box;
